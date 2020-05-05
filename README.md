@@ -12,6 +12,7 @@ Please cite the following paper if you find this code useful in your research.
 
 B. Yan, Y. Xiang and G. Hua, "Improving the Visual Quality of Size-Invariant Visual Cryptography for Grayscale Images: An Analysis-by-Synthesis (AbS) Approach," in IEEE Transactions on Image Processing, vol. 28, no. 2, pp. 896-911, Feb. 2019.
 
+### Latex (bibtex)
 @ARTICLE{8485417, 
 author={B. {Yan} and Y. {Xiang} and G. {Hua}}, 
 journal={IEEE Transactions on Image Processing}, 
